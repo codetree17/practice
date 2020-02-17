@@ -1,4 +1,2 @@
 # practice
-#practicee Test1
-Test
-Test2
+#practice A
